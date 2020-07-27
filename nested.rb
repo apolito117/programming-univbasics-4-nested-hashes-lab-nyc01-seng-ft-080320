@@ -17,7 +17,7 @@ def hopper
       }
     }
 programmer_hash [:grace_hopper] = {:known_for=>"COBOL", :languages=>["COBOL", "FORTRAN"]}
-programmer_hash
+programmer_hash!
 end
 
 def alan_kay_is_known_for
