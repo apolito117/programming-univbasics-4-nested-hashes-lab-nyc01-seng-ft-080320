@@ -87,7 +87,7 @@ def adding_matz
         :known_for => "Unix",
         :languages => ["C"]
       }
-			
+
     }
 
 end
@@ -111,7 +111,7 @@ def changing_alan
         :languages => ["C"]
       }
     }
-
+programmer_hash
 end
 
 def adding_to_dennis
